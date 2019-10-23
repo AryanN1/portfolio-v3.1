@@ -8,4 +8,4 @@ This is version 3.1 of my portfolio that I want to publish live online
   -JS
   -jquery
 # Screen Shot
-  -Coming soon-
+  *Coming soon
